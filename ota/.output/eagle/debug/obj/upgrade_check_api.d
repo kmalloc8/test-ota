@@ -1,0 +1,37 @@
+.output/eagle/debug/obj/upgrade_check_api.o .output/eagle/debug/obj/upgrade_check_api.d : upgrade_check_api.c \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/stdlib.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/_ansi.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/newlib.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/config.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/features.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/extra_include/xtensa/config/core-isa.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/reent.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/_ansi.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/_types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/_types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/_default_types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/lock.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/stdlib.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/alloca.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/stdint.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/espressif/c_types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/espressif/spi_flash.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/err.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/opt.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwipopts.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/debug.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/arch.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/arch/cc.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/stdio.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdarg.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/types.h \
+ /opt/esp8266_sdk_v2/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/stdio.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/ip_addr.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/lwip/def.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/ipv4/lwip/ip4_addr.h \
+ /home/gavin/8266space/ESP8266_RTOS_SDK-v2/include/lwip/ipv6/lwip/ip6_addr.h
